@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameSettings>
+  <Difficulty>Medium</Difficulty>
+  <GameSpeed>Fast</GameSpeed>
+  <WaveLimit>43</WaveLimit>
+  <StartingGold>86</StartingGold>
+</GameSettings>

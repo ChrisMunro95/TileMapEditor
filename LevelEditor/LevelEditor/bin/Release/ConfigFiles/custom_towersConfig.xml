@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Towers>
+  <Tower Name="Cannon" Damage="5" Range="15" FireRate="1.1" Cost="25" />
+  <Tower Name="Crossbow" Damage="170" Range="43" FireRate="1.67" Cost="55" />
+  <Tower Name="Arcane" Damage="12" Range="20" FireRate="1.1" Cost="120" />
+  <Tower Name="Buster" Damage="15" Range="21" FireRate="1.3" Cost="210" />
+  <Tower Name="Magma" Damage="23" Range="20" FireRate="1.2" Cost="300" />
+</Towers>

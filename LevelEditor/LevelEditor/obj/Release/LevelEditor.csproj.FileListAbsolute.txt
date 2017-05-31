@@ -1,0 +1,28 @@
+C:\Users\Chris\Documents\University Work\Year 2\Multimodal Interfaces\Level Editor\LevelEditor\LevelEditor\bin\Release\LevelEditor.exe.config
+C:\Users\Chris\Documents\University Work\Year 2\Multimodal Interfaces\Level Editor\LevelEditor\LevelEditor\bin\Release\LevelEditor.exe
+C:\Users\Chris\Documents\University Work\Year 2\Multimodal Interfaces\Level Editor\LevelEditor\LevelEditor\bin\Release\LevelEditor.pdb
+C:\Users\Chris\Documents\University Work\Year 2\Multimodal Interfaces\Level Editor\LevelEditor\LevelEditor\obj\Release\MainWindow.baml
+C:\Users\Chris\Documents\University Work\Year 2\Multimodal Interfaces\Level Editor\LevelEditor\LevelEditor\obj\Release\MainWindow.g.cs
+C:\Users\Chris\Documents\University Work\Year 2\Multimodal Interfaces\Level Editor\LevelEditor\LevelEditor\obj\Release\App.g.cs
+C:\Users\Chris\Documents\University Work\Year 2\Multimodal Interfaces\Level Editor\LevelEditor\LevelEditor\obj\Release\LevelEditor_MarkupCompile.cache
+C:\Users\Chris\Documents\University Work\Year 2\Multimodal Interfaces\Level Editor\LevelEditor\LevelEditor\obj\Release\LevelEditor.g.resources
+C:\Users\Chris\Documents\University Work\Year 2\Multimodal Interfaces\Level Editor\LevelEditor\LevelEditor\obj\Release\LevelEditor.Properties.Resources.resources
+C:\Users\Chris\Documents\University Work\Year 2\Multimodal Interfaces\Level Editor\LevelEditor\LevelEditor\obj\Release\LevelEditor.csproj.GenerateResource.Cache
+C:\Users\Chris\Documents\University Work\Year 2\Multimodal Interfaces\Level Editor\LevelEditor\LevelEditor\obj\Release\LevelEditor.exe
+C:\Users\Chris\Documents\University Work\Year 2\Multimodal Interfaces\Level Editor\LevelEditor\LevelEditor\obj\Release\LevelEditor.pdb
+C:\Users\Chris\Documents\University Work\Year 2\Multimodal Interfaces\Level Editor\LevelEditor\LevelEditor\obj\Release\LevelEditor.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Projects\LevelEditor\LevelEditor\bin\Release\LevelEditor.exe.config
+C:\Users\Chris\Documents\Projects\LevelEditor\LevelEditor\obj\Release\LevelEditor.exe
+C:\Users\Chris\Documents\Projects\LevelEditor\LevelEditor\obj\Release\LevelEditor.pdb
+C:\Users\Chris\Documents\Projects\LevelEditor\LevelEditor\bin\Release\LevelEditor.exe
+C:\Users\Chris\Documents\Projects\LevelEditor\LevelEditor\bin\Release\LevelEditor.pdb
+C:\Users\Chris\Documents\Projects\LevelEditor\LevelEditor\obj\Release\LevelEditor.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Projects\LevelEditor\LevelEditor\obj\Release\MainWindow.baml
+C:\Users\Chris\Documents\Projects\LevelEditor\LevelEditor\obj\Release\MainWindow.g.cs
+C:\Users\Chris\Documents\Projects\LevelEditor\LevelEditor\obj\Release\App.g.cs
+C:\Users\Chris\Documents\Projects\LevelEditor\LevelEditor\obj\Release\LevelEditor_MarkupCompile.cache
+C:\Users\Chris\Documents\Projects\LevelEditor\LevelEditor\obj\Release\LevelEditor.g.resources
+C:\Users\Chris\Documents\Projects\LevelEditor\LevelEditor\obj\Release\LevelEditor.Properties.Resources.resources
+C:\Users\Chris\Documents\Projects\LevelEditor\LevelEditor\obj\Release\LevelEditor.csproj.GenerateResource.Cache
+C:\Users\Chris\Documents\Projects\LevelEditor\LevelEditor\obj\Release\NewDialogBox.baml
+C:\Users\Chris\Documents\Projects\LevelEditor\LevelEditor\obj\Release\NewDialogBox.g.cs

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GameSettings>
+	<Level Name="Level1" Difficulty="Easy" GameSpeed="Slow" WaveLimit="25" StartingGold="50"></Level>
+	<Level Name="Level2" Difficulty="Medium" GameSpeed="Slow" WaveLimit="50" StartingGold="50"></Level>
+	<Level Name="Level3" Difficulty="Hard" GameSpeed="Slow" WaveLimit="100" StartingGold="75"></Level>
+</GameSettings>

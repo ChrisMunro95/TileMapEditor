@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EnemyCreeps>
+  <Creep Type="Troll" Health="5" Speed="2" />
+  <Creep Type="Orc" Health="77" Speed="1.11" />
+  <Creep Type="Goblin" Health="20" Speed="2" />
+  <Creep Type="Khazra" Health="30" Speed="2.7000000476837158" />
+  <Creep Type="Demon" Health="40" Speed="2.5" />
+  <Creep Type="GunGan" Health="65" Speed="2.1500000953674316" />
+  <Creep Type="Namekian" Health="100" Speed="1.8999999761581421" />
+  <Creep Type="Wookie" Health="140" Speed="1.7999999523162842" />
+</EnemyCreeps>
